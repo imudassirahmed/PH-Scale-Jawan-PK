@@ -1,0 +1,65 @@
+p {
+    color: rgb(255, 255, 255);
+    margin: 0;
+  }
+  
+  .acidity-1 {
+    background-color: #1158c4;
+  }
+  
+  .acidity-2 {
+    background-color: #2572cf;
+  }
+  
+  .acidity-3 {
+    background-color: #548ad1;
+  }
+  
+  .acidity-4 {
+    background-color: #688fc4;
+  }
+  
+  .acidity-5 {
+    background-color: #86a8d6;
+  }
+  
+  .acidity-6 {
+    background-color: #a2c1e8;
+  }
+  
+  .acidity-7 {
+    background-color: #bde9ff;
+  }
+  
+  .neutral {
+    background-color: green;
+  }
+  
+  .basicity-1 {
+    background-color: #ffd4e1;
+  }
+  
+  .basicity-2 {
+    background-color: #f7bed3;
+  }
+  
+  .basicity-3 {
+    background-color: #f7a1c2;
+  }
+  
+  .basicity-4 {
+    background-color: #fc99bf;
+  }
+  
+  .basicity-5 {
+    background-color: #fa76a6;
+  }
+  
+  .basicity-6 {
+    background-color: #f84e92;
+  }
+  
+  .basicity-7 {
+    background-color: #f5308f;
+  }
+  
